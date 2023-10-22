@@ -1,2 +1,2 @@
 git pages link:
-https://github.com/lukesgon/xgstore
+https://lukesgon.github.io/xgstore/
