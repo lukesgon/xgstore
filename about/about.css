@@ -1,0 +1,35 @@
+html {
+    font-size: 16px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    text-align: center;
+    width: 100%;
+    margin: 0;
+    padding: 0.5rem;
+    max-width: 100%;
+}
+
+h6 {
+    font-size: 1.5rem;
+    margin: 0.5rem 0 0 0;
+    padding: 0;
+}
+
+article {
+    display: inline-block;
+}
+
+.imagem-comunidade {
+    margin-bottom: 3rem;
+}
+
+span {
+    font-weight: bold;
+}
